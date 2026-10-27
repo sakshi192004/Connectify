@@ -5,7 +5,7 @@ Connectify is a real-time chat application built using React, Node.js, Express, 
 ## 🔗 Project Links
 
 * **GitHub Repository:** [(https://github.com/sakshi192004/Connectify)]
-* **Live Demo:** [Add your deployed application URL here]
+* **Live Demo:** [(https://connectify-8eb2.vercel.app/)]
 * **Demo Video:** [Add your demo video URL here]
 
 ## ✨ Features
